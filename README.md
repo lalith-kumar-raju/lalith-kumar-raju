@@ -1,30 +1,29 @@
-# 👋 Hi, I'm Laith
+# 👋 Hi, I'm Laith (Lalith Kumar Raju Somalaraju)
 
 🎓 Computer Science (AI) Undergraduate @ Amrita Vishwa Vidyapeetham  
-🧠 AI • Machine Learning • Full-Stack Development  
-📍 Amaravati, Andhra Pradesh, India  
+💡 Aspiring Software Engineer | AI • ML • Full-Stack  
+📍 Amaravati, Andhra Pradesh, India
 
 ---
 
 ## 🚀 About Me
 
-I build **intelligent, end-to-end systems** that turn data into usable products.
+I am a Computer Science undergraduate specializing in **Artificial Intelligence**, with hands-on experience in  
+**machine learning, deep learning, and full-stack application development**.
 
-As a Computer Science undergraduate specializing in **Artificial Intelligence**, I work at the intersection of  
-**machine learning, deep learning, and software engineering** — focusing on solutions that are not just accurate,  
-but **deployable, explainable, and impactful**.
-
-My primary interests include **AI for healthcare**, applied ML research, and scalable full-stack applications.
+I enjoy building **end-to-end systems** — from data preprocessing and model design to deployment and user-facing applications.  
+My interests lie in **AI for real-world impact**, especially in healthcare, intelligent systems, and scalable software solutions.
 
 ---
 
-## 🧠 Technical Focus
+## 🧠 Technical Skills
 
-**Languages:** Python, SQL  
+**Programming:**  
+- Python, SQL  
 
-**AI / ML:**  
-- Machine Learning, Deep Learning, NLP  
+**ML / AI:**  
 - Scikit-learn, PyTorch, XGBoost  
+- Machine Learning, Deep Learning, NLP  
 
 **Web & Deployment:**  
 - Flask, HTML, CSS, JavaScript  
@@ -34,22 +33,22 @@ My primary interests include **AI for healthcare**, applied ML research, and sca
 
 ---
 
-## 📌 Selected Work
+## 📌 Featured Projects
 
-### 🩺 Chest X-Ray Pneumonia Detection *(Ongoing Research)*
-- Designed a **Hierarchical Multi-Scale Vision Transformer (HMS-ViT)**
-- Integrated Swin, DeiT, and PVT for multi-scale feature learning
-- Applied **Grad-CAM** for clinical interpretability
+### 🩺 Chest X-Ray Pneumonia Detection (In Progress)
+- Hierarchical Multi-Scale Vision Transformer (HMS-ViT)
+- Combines Swin, DeiT, and PVT architectures
+- Explainability using Grad-CAM
 
 ### ✈️ Airport Resilience Analysis
-- Built probabilistic resilience models using **Bayesian Networks**
-- Analyzed **1,266+ real-world airport incidents**
-- Incorporated expert knowledge via **Best–Worst Method (BWM)**
+- Bayesian Networks & Best-Worst Method (BWM)
+- Analyzed 1,266+ real-world airport incidents
+- Built probabilistic resilience scoring models
 
 ### 💰 Medical Insurance Price Prediction
-- Trained an **XGBoost regression model** achieving **95% accuracy**
-- Developed and deployed a **Flask-based web application**
-- Enabled real-time predictions with interactive visualization
+- XGBoost regression with **95% accuracy**
+- Deployed Flask web application
+- Real-time prediction & visualization
 
 ---
 
@@ -57,32 +56,32 @@ My primary interests include **AI for healthcare**, applied ML research, and sca
 
 📄 **Predicting Medical Insurance Costs: A Machine Learning Approach for Smarter Risk Assessment**  
 - ICCRTEE 2025 (IEEE)  
-- DOI: 10.1109/ICCRTEE64519.2025.11052963  
+- DOI: 10.1109/ICCRTEE64519.2025.11052963
 
 ---
 
 ## 🏅 Certifications
 
-- AWS Certified Cloud Practitioner (2025)  
-- OCI Generative AI Professional – Oracle (2025)  
+- AWS Certified Cloud Practitioner – AWS (2025)  
+- OCI Generative AI Professional – ORACLE (2025)  
 - Joy of Computing Using Python – NPTEL  
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
-- Advanced NLP & Transformer Architectures  
+- Advanced NLP & Transformers  
 - Full-Stack Development (React • Node.js)  
-- Model Optimization & Deployment Pipelines  
+- Model Optimization & Deployment
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/lalith-kumar-raju-somalaraju/  
-- 🌐 Portfolio: https://lalith-kumar-raju-portfolio.onrender.com/  
+- 💼 LinkedIn: *https://www.linkedin.com/in/lalith-kumar-raju-somalaraju/*  
+- 🌐 Portfolio: *https://lalith-kumar-raju-portfolio.onrender.com/*  
 - 📧 Email: ssivaprasadraju1978@gmail.com  
 
 ---
 
-⭐ *Open to collaborations, research discussions, and building meaningful AI systems.*
+⭐ *Always open to collaborations, research discussions, and impactful projects.*
