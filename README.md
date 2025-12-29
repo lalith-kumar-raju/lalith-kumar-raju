@@ -62,8 +62,8 @@ My interests lie in **AI for real-world impact**, especially in healthcare, inte
 
 ## 🏅 Certifications
 
-- AWS Certified Cloud Practitioner (2025)  
-- OCI Generative AI Professional (2025)  
+- AWS Certified Cloud Practitioner – AWS (2025)  
+- OCI Generative AI Professional – ORACLE (2025)  
 - Joy of Computing Using Python – NPTEL  
 
 ---
@@ -78,8 +78,8 @@ My interests lie in **AI for real-world impact**, especially in healthcare, inte
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: *[Add your LinkedIn URL]*  
-- 🌐 Portfolio: *[Add your portfolio link]*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/lalith-kumar-raju-somalaraju/*  
+- 🌐 Portfolio: *https://lalith-kumar-raju-portfolio.onrender.com/*  
 - 📧 Email: ssivaprasadraju1978@gmail.com  
 
 ---
